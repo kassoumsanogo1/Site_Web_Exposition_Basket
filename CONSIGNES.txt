@@ -1,0 +1,3 @@
+Consigne : 
+Pour lancer ce projet il vous faut au préalable avoir installer WampServer car j'ai utilisé une base de donnée Mysql pour gérer le LOGIN (Inscription et Conneion) au site web.
+Après aoir configuration de Wamp et téléversement du fichier sur Wamp vous pouvez lancer n'importe quelle page,vous inscrire et vous connectez et également visualiser sur MySQL la recupération de vos données.
